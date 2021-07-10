@@ -63,9 +63,9 @@ Para compilar e executar um programa destes, basta executar o comando com o nome
 > O comando acima precisa do compilador g++ instalado na máquina, se você não sabe o que é isso, comece lendo sobre [por aqui](https://pt.wikipedia.org/wiki/GNU_Compiler_Collection)
 
 ## Autores
-- [Maurício Taffarel](https://github.com/taffarel55/)
 - [Breno Amin](https://github.com/brenoamin)
 - [Geraldo Júnior](https://github.com/GeraldinJr)
+- [Maurício Taffarel](https://github.com/taffarel55/)
 
 ## Contribuindo
 Contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Todas as contribuições que você fizer são muito bem vindas! 
