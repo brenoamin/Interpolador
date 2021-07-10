@@ -1,4 +1,3 @@
-# Interpolador
 <h1 align="center">
   <br>
   <a href="#"><img src="assets/funcao.png" alt="Just a simple icon" width="80"></a>
